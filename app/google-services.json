@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151929938380",
+    "project_id": "gdsc-college-app",
+    "storage_bucket": "gdsc-college-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151929938380:android:83e4293ee355c158753d69",
+        "android_client_info": {
+          "package_name": "com.gdscAssign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151929938380-hn2sb33ainplauk8ts0f361498hk6eaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvzmE_yo8F1hbJaHDzHYQuGJuswC-RNmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151929938380-hn2sb33ainplauk8ts0f361498hk6eaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
